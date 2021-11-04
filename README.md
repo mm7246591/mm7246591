@@ -10,7 +10,7 @@ I'm a passionate learning program from TW
 
 👨‍💻
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mm7246591&theme=vue-dark)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm7246591&layout=compact&theme=vue-dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mm7246591&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm7246591&layout=compact&theme=vue-dark)
 
 
 🔧 Technologies & Tools
