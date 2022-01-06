@@ -25,4 +25,4 @@ I'm a passionate learning program from TW
 ### Learning
 
 <img align = "left" width = "30px" src = "https://s0.60logo.com/uploads/items/images/soft/171209/nodejs-icon.svg">
-<img align = "left" width = "25px" src = "https://iconape.com/wp-content/png_logo_vector/vue-js.png">
+<img align = "left" width = "27px" src = "https://iconape.com/wp-content/png_logo_vector/vue-js.png">
