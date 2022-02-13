@@ -8,7 +8,7 @@ I'm a passionate learning program from TW
 
 --> 🔥  trying to becoming Front end
 
-## my social software
+## My Social software
 
 - FB: https://www.facebook.com/alan.chen.169/
 - Instagram: https://www.instagram.com/yan._0908/
