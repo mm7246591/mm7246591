@@ -8,7 +8,10 @@ I'm a passionate learning program from TW
 
 --> 🔥  trying to becoming Front end
 
-👨‍💻
+## my social software
+
+- FB: https://www.facebook.com/alan.chen.169/
+- Instagram: https://www.instagram.com/yan._0908/
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mm7246591&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm7246591&layout=compact&theme=vue-dark)
 
