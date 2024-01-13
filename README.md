@@ -6,8 +6,6 @@ I'm passionate learning program
 
 --> 🔥  trying to becoming Front end
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mm7246591&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm7246591&layout=compact&theme=vue-dark)
-
 
 ### 🔧 Technologies & Tools
 
