@@ -1,17 +1,10 @@
-### Hello everyone！I'm Yan  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-I'm a passionate learning program from TW
+I'm passionate learning program 
 
 ## ✉️ About me
 
 --> 🏫 YZU information Communication
 
 --> 🔥  trying to becoming Front end
-
-## My Social Media
-
-- FB: https://www.facebook.com/alan.chen.169/
-- Instagram: https://www.instagram.com/yan._0908/
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mm7246591&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm7246591&layout=compact&theme=vue-dark)
 
@@ -27,6 +20,4 @@ I'm a passionate learning program from TW
 
 ### Learning
 
-<img align = "left" width = "30px" src = "https://s0.60logo.com/uploads/items/images/soft/171209/nodejs-icon.svg">
-<img align = "left" width = "30px" src = "https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png">
 <img align = "left" width = "32px" src = "https://iconape.com/wp-content/png_logo_vector/vue-js.png">
