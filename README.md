@@ -2,9 +2,9 @@ I'm passionate learning program
 
 ## ✉️ About me
 
---> 🏫 YZU information Communication
+--> YZU information Communication
 
---> 🔥  trying to becoming Front end
+--> trying to becoming Front end
 
 
 ### 🔧 Technologies & Tools
